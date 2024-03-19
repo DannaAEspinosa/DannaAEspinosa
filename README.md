@@ -11,11 +11,12 @@ Soy una estudiante de Ingeniería de Sistemas en la Universidad Icesi y estoy ap
 - **Programación Web:** Estoy enfocada en aprender y mejorar mis habilidades en desarrollo web, incluyendo HTML, CSS, JavaScript, y frameworks como Django, Spring y algunas librerias como React.
 - **Ciberseguridad:** Tengo un interés especial en la ciberseguridad y estoy explorando conceptos y técnicas en este campo.
 
-### ⚙️ &nbsp;GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DannaAEspinosa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<a href="https://github.com/DannaAEspinosa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DannaAEspinosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DannaAEspinosa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DannaAEspinosa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
