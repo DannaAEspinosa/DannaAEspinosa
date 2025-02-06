@@ -7,7 +7,7 @@ Soy una estudiante de Ingeniería de Sistemas en la Universidad Icesi y estoy ap
 
 ## Mis habilidades y conocimientos
 
-- **Lenguajes de Programación:** Java, Python, Scala.
+- **Lenguajes de Programación:** Java, Python.
 - **Programación Web:** Estoy enfocada en aprender y mejorar mis habilidades en desarrollo web, incluyendo HTML, CSS, JavaScript, y frameworks como Django, Spring y algunas librerias como React.
 - **Ciberseguridad:** Tengo un interés especial en la ciberseguridad y estoy explorando conceptos y técnicas en este campo.
 
