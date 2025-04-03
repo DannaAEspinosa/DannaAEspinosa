@@ -36,5 +36,3 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi con inter�
 ![](https://github-contributor-stats.vercel.app/api?username=DannaAEspinosa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-Si quieres agregar proyectos específicos o mejorar algo, dime. 🚀  
