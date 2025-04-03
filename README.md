@@ -1,22 +1,40 @@
 <div align="center">
-<h1 align="center">Hola, soy <a> Danna Espinosa </a> 👋</h1>
+  <h1 align="center">Hola, soy <a>Danna Espinosa</a> 👋</h1>
 </div>
 
-## Sobre mi
-Soy una estudiante de Ingeniería de Sistemas en la Universidad Icesi y estoy apasionada por el mundo de la tecnología y la programación. Mi enfoque principal es la programación web, y actualmente estoy aprendiendo y explorando diversas tecnologías relacionadas.
+## 🚀 Sobre mí  
+Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi con interés en **Inteligencia Artificial, Desarrollo Backend y Ciencia de Datos**. Me apasiona la tecnología y la optimización de procesos mediante datos.
 
-## Mis habilidades y conocimientos
+## 🛠️ Habilidades y Tecnologías  
+- **Lenguajes de Programación:** Java, Python, Typescript
+- **Bases de Datos:** MongoDB, SQL.
+- **Desarrollo Web:** HTML, CSS, JavaScript, React, Django, Spring Boot.  
+- **Ciberseguridad:** Fundamentos de seguridad y gestión de riesgos.  
+- **Metodologías ágiles:** Scrum, Kanban.  
 
-- **Lenguajes de Programación:** Java, Python.
-- **Programación Web:** Estoy enfocada en aprender y mejorar mis habilidades en desarrollo web, incluyendo HTML, CSS, JavaScript, y frameworks como Django, Spring y algunas librerias como React.
-- **Ciberseguridad:** Tengo un interés especial en la ciberseguridad y estoy explorando conceptos y técnicas en este campo.
+## 📜 Certificaciones  
+- Scrum Foundation Professional Certificate (SFPC) | CertiProf  
+- Introduction to MongoDB | MongoDB  
+- Fundamentals of Cybersecurity | Coursera - Google  
+- Play It Safe: Manage Security Risks | Coursera - Google  
+- Junior Software Developer | Universidad Icesi  
+- Junior Software Architect | Universidad Icesi - Perficient  
+- Python Essentials 1 | Cisco Networking Academy - Python Institute  
+- Junior-Level Functional Software Testing Certification | GreenSQA  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DannaAEspinosa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 GitHub Stats  
 
-### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannaAEspinosa&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannaAEspinosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+### 🔝 Repositorios Destacados  
 ![](https://github-contributor-stats.vercel.app/api?username=DannaAEspinosa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
+Si quieres agregar proyectos específicos o mejorar algo, dime. 🚀  
